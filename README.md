@@ -1,5 +1,5 @@
 ## Hey there!
-I'm a freshman at RIT interested in cybersecurity and low level programming. Thanks for visiting!
+I'm a freshman at RIT with a passion for cybersecurity and low level programming. Thanks for visiting!
 
 <br>
 
